@@ -103,8 +103,8 @@ Adres: ul. Gęsia 22a,
 _Obrazek tytułowy: Risotto szafranowe_
 
 [Andromeda Alfa]: https://andromeda.jordan.pl/
-[bakłażany]: /about#baklazan
-[bakłażanów]: /about#baklazan
+[bakłażany]: {{site.baseurl}}/about#baklazan
+[bakłażanów]: {{site.baseurl}}/about#baklazan
 
 
 

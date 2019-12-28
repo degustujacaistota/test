@@ -118,8 +118,8 @@ Adres: ul. Koszykowa 47, 00-659 Warszawa
 _Obrazek tytułowy: Ciasteczka do barszczu_
 
 [White_One]: http://whiteone.pl/
-[bakłażany]: /about#baklazan
-[bakłażanów]: /about#baklazan
+[bakłażany]: {{site.baseurl}}/about#baklazan
+[bakłażanów]: {{site.baseurl}}/about#baklazan
 [Taste Masters]: /taste-masters/
 
 

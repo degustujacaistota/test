@@ -136,6 +136,6 @@ Adres: Aleja Roździeńskiego 1A,
 _Obrazek tytułowy: Jesiotr na linguine_
 
 [ISTO]: http://www.isto.com.pl/
-[bakłażany]: /about#baklazan
-[bakłażanów]: /about#baklazan
+[bakłażany]: {{site.baseurl}}/about#baklazan
+[bakłażanów]: {{site.baseurl}}/about#baklazan
 

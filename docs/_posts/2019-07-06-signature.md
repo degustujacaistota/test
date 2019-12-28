@@ -91,5 +91,5 @@ ul. Poznańska 15, Warszawa
 _Obrazek tytułowy: Policzki z jelenia z musem z granata i gołąbkami_
 
 [Signature]: http://www.signaturerestaurant.pl/
-[bakłażany]: /about#baklazan
+[bakłażany]: {{site.baseurl}}/about#baklazan
 

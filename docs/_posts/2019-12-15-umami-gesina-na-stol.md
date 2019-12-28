@@ -155,8 +155,8 @@ _Obrazek tytułowy: Pasztetówka w&nbsp;czekoladzie i&nbsp;krokiet ze&nbsp;ślim
 [Gęś w dymie]: https://www.facebook.com/geswdymie
 [Umami]: http://www.restauracjaumami.pl/
 [Plado]: http://plado.pl/
-[bakłażany]: /about#baklazan
-[bakłażanów]: /about#baklazan
+[bakłażany]: {{site.baseurl}}/about#baklazan
+[bakłażanów]: {{site.baseurl}}/about#baklazan
 
 
 

@@ -135,9 +135,9 @@ Adres: Aleja Roździeńskiego 1A, 40-202 Katowice
 _Obrazek tytułowy: Kaszanka z żołądkami_
 
 [ISTO]: http://www.isto.com.pl/
-[bakłażany]: /about#baklazan
-[bakłażanów]: /about#baklazan
-[bakłażan]: /about#baklazan
+[bakłażany]: {{site.baseurl}}/about#baklazan
+[bakłażanów]: {{site.baseurl}}/about#baklazan
+[bakłażan]: {{site.baseurl}}/about#baklazan
 
 
 
